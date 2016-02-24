@@ -4,7 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               David Brait
+title:               David Brait's Blog
+tagline:             "Topics in Data Science"
 description:         'A blog that uses data science to look into interesting trends'
 url:                 http://dbrait.github.io
 baseurl:             ''
