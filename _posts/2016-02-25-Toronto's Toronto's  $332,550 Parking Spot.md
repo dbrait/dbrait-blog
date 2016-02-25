@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Looking at Toronto Parking Ticket Data"
+title: "Toronto's Toronto's $332,550 Parking Spot"
 date: 2016-02-25
 ---
 
