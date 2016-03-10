@@ -2,6 +2,7 @@
 <html lang="en-us">
 
   {% include head.html %}
+  {% include google_analytics.html %}
 
   <body>
 
@@ -40,8 +41,15 @@
         }, false);
       })(document);
     </script>
+    
+    {% include comments.html %}
+    
+    <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    
   </body>
-  
-  {% include comments.html %}
   
 </html>
