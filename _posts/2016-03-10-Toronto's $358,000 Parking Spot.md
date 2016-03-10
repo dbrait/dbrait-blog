@@ -57,3 +57,6 @@ Another victim pictured in the google street view image.  This is the exit on th
 ### 2013: 315 tickets issued for $141,750
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1455651896816!6m8!1m7!1sotM4k6jUW09oEeBmET3sQg!2m2!1d43.65821668092152!2d-79.39131905145949!3f245!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+{% include twitter_plug.html %}
