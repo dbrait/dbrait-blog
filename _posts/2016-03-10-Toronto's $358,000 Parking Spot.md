@@ -10,8 +10,8 @@ Toronto's most expensive parking ticket is $450.  There are several infractions 
 
 In 2014, 2985 of these tickets were handed out with almost a quarter of them coming from one location, 410 College St.  At 739 tickets, that is a little over 2 tickets a day.  With each ticket costing $450 a pop, this 410 College St spot generated $332,550 in revenue for the city, just in 2014. 
 
-## 410 College St (Across the street)
-#### 2015: 796 tickets issued for $358,200
+## 410 College St (Across the street) ##
+#### 2015: 796 tickets issued for $358,200 ####
 #### 2014: 893 tickets issued for $401,850
 #### 2013: 647 tickets issued for $291,150
 
