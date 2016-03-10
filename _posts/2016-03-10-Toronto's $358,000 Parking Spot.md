@@ -4,11 +4,13 @@ title: "Toronto's Toronto's $332,550 Parking Spot"
 date: 2016-03-10
 ---
 
-Yesterday, the City of Toronto released their 2015 parking ticket data.  The dataset contains information on every parking ticket issued in the city in 2015.  Inspiried by the fantastic I Quant NY blog, I started exploring the data to see if I could uncover any interesting trends or nuggets of information.
+Yesterday, the City of Toronto released their 2015 parking ticket data which contains information on every ticket last year in the city.  Inspiried by the fantastic <a href="http://iquantny.tumblr.com/">I Quant NY blog</a>, I started exploring the data to see if I could uncover any interesting trends.  I used the 2013 and 2014 datasets to ensure that the findings were not aberrations.
 
-Toronto's most expensive parking ticket is $450.  There are several infractions that are deemed worthy of that hefty price tag, one of which is "Stand On Street Accessible No Permit".  
+Toronto's most expensive parking ticket is $450.  There are several infractions that are deemed worthy of that hefty price tag, most of which are some variation of parking in a handicapped area.  Some of the most frequent addresses are what you would expect: 555 Rexdale Blvd (Woodbine), 1090 Don Mills Rd (Shops at Don Mills) and 3401 Dufferin St (Yorkdale).    
 
-In 2014, 2985 of these tickets were handed out with almost a quarter of them coming from one location, 410 College St.  At 739 tickets, that is a little over 2 tickets a day.  With each ticket costing $450 a pop, this 410 College St spot generated $332,550 in revenue for the city, just in 2014. 
+However, the most ticketed areas are in unlikely places, often claiming victims due to confusing locations or marking.  
+
+For the last three years 410 College St has been the undisputed king of max fine parking tickets, doubling any other Toronto address.  In the google streetview image below (in which a likely victim is parked in the spot), the signage appears pretty clear but the presence of a handicapped spot is likely the issue.  
 
 ## 410 College St (Across the street) ##
 #### 2015 796 tickets issued for $358,200 ####
@@ -17,6 +19,7 @@ In 2014, 2985 of these tickets were handed out with almost a quarter of them com
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1455649270872!6m8!1m7!1sk9t_aIUtkuWeAvu_uTdHFA!2m2!1d43.65675864281898!2d-79.40623669615232!3f144.63015609181116!4f-16.43494906144889!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+There is a significant drop off in tickets, but a max ticket per day at 18 Grenville St is still a nice revenue generator for city hall.  Likely another case of an odd place for a handicapped designitation to be.  
 
 ## 18 Grenville St 
 #### 2015: 342 tickets issued for $153,900
@@ -25,6 +28,7 @@ In 2014, 2985 of these tickets were handed out with almost a quarter of them com
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1455651657879!6m8!1m7!1s83857MNyUcdO5tzZJ82cxA!2m2!1d43.66195861412737!2d-79.38421575983601!3f329.1808863828714!4f-5.896528146053157!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+Another victim pictured in the google street view image.  This is the exit on the eastside of the Manulife center. 
 
 ## 35 Balmuto St (Across the street)
 #### 2015: 326 tickets issued for $146,700
