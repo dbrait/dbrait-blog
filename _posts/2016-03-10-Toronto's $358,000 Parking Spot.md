@@ -13,7 +13,7 @@ However, the most ticketed areas are in unlikely places, often claiming victims 
 For the last three years 410 College St has been the undisputed king of max fine parking tickets, doubling any other Toronto address.  In the google streetview image below (in which a likely victim is parked in the spot), the signage appears pretty clear but the presence of a handicapped spot is likely the issue.  
 
 ## 410 College St (Across the street) ##
-#### 2015 796 tickets issued for $358,200 ####
+####  2015 796 tickets issued for $358,200 ####
 #### 2014: 893 tickets issued for $401,850
 #### 2013: 647 tickets issued for $291,150
 
