@@ -23,6 +23,17 @@
       <div class="container content">
         {{ content }}
       </div>
+      
+          
+    {% include comments.html %}
+    
+    <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    
+      
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
@@ -41,15 +52,7 @@
         }, false);
       })(document);
     </script>
-    
-    {% include comments.html %}
-    
-    <div class="footer">
-        <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-        </p>
-      </div>
-    
+
   </body>
   
 </html>
