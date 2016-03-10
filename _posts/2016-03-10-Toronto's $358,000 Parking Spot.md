@@ -2,6 +2,7 @@
 layout: post
 title: "Toronto's Toronto's $332,550 Parking Spot"
 date: 2016-03-10
+comments: True
 ---
 
 Yesterday, the City of Toronto released their 2015 parking ticket data which contains information on every ticket last year in the city.  Inspiried by the fantastic <a href="http://iquantny.tumblr.com/">I Quant NY blog</a>, I started exploring the data to see if I could uncover any interesting trends.  I used the 2013 and 2014 datasets to ensure that the findings were not aberrations.
