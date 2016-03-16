@@ -15,17 +15,20 @@ The most frequently fined locations are more obscure spots that have consistentl
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1455649270872!6m8!1m7!1sk9t_aIUtkuWeAvu_uTdHFA!2m2!1d43.65675864281898!2d-79.40623669615232!3f144.63015609181116!4f-16.43494906144889!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
 No other address in Toronto is as consistent a revenue producer as 410 College, but there are several other spots that seem to be a lock every year for $100,000+ in max fine ticket revenue.  **18 Grenville St** seems like another awkward place for a handicapped designitation.  In 2015 the spot averaged close to a max fine a day, **342 tickets for $153,900**.  Each of the last three years max fines at 18 Grenville have topped **$145,000**.
 
 ## 18 Grenville St 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1455651657879!6m8!1m7!1s83857MNyUcdO5tzZJ82cxA!2m2!1d43.66195861412737!2d-79.38421575983601!3f329.1808863828714!4f-5.896528146053157!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
 Another google street view image with a likely victim in the still shot.  This is across the street from **35 Balmuto** just outside an eastside exit from the Manulife Center.  This spot has topped $100,000 in fines the last three years with 2015 seeing **326 tickets** for **$146,700**.
 
 ## 35 Balmuto St
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1457569124752!6m8!1m7!1s1EsfEA2OFO2ZS7besE31jg!2m2!1d43.66953377351889!2d-79.3878226779771!3f223.54294412397383!4f-11.343472253253594!5f1.9587109090973311" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 The last of Toronto's prolific max fine spots, **60 Murray St** just west of Mount Sinai hospital.  In 2015 this spot produced **287 tickets** for **$129,150**, its lowest total of the last three years.
 
