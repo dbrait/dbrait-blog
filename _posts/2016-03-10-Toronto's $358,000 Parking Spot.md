@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toronto's Toronto's $332,550 Parking Spot"
+title: "Toronto's Toronto's $358,000 Parking Spot"
 date: 2016-03-10
 comments: True
 ---
