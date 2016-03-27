@@ -7,7 +7,7 @@ output: html_document
 
 Expanding on my last post about <a href="http://dbrait.github.io/2016/03/10/Toronto's-$358,000-Parking-Spot/">Toronto's most expensive parking tickets</a>, I decided to dive back into the city of Toronto's parking ticket data.  Fire hydrants are another interesting type of infraction that have been very profitable for the city.  In 2015, there were **32,791** tickets issued for parking within 3 meters of a fire hydrant.  At $100 per ticket, that produced close to **$3.3 million** in revenue.  
 
-As expected, there are several fire hydrants that are cash cows for the city.  393 University Avenue is the city's most consistent revenue source.  As you can see in the Google Street View below, the hydrant is well back from the street and tough to notice for the average driver.  This hydrant has topped **290** tickets each of the last three years, with a high of **557** tickets in 2013.
+As expected, there are several fire hydrants that are cash cows.  **393 University Avenue** is the city's most consistent revenue source.  As you can see in the Google Street View below, the hydrant is well back from the street and tough to notice for the average driver.  This hydrant has topped **290** tickets each of the last three years, with a high of **557** tickets in 2013.
 
 ## 393 University Avenue
 
@@ -15,7 +15,7 @@ As expected, there are several fire hydrants that are cash cows for the city.  3
 
 &nbsp;
 
-In 2015, 99 Atlantic Avenue surged to the top of the list with **419 tickets** issued, grossing **$41,900 in revenue**.  It is in an area of increased activity, in which the color of the hydrant can sometimes blend into the burned grass that it sits on. 
+In 2015, **99 Atlantic Avenue** surged to the top of the list with **419 tickets** issued, grossing **$41,900 in revenue**.  It is in an area of increased activity, in which the color of the hydrant can sometimes blend into the burned grass that it sits on. 
 
 ## 99 Atlantic Avenue
 
@@ -23,7 +23,7 @@ In 2015, 99 Atlantic Avenue surged to the top of the list with **419 tickets** i
 
 &nbsp;
 
-There were several other high grossing hydrants in Toronto that were similarly ambiguous.  Continuing the University Avenue theme, 361, also sits back from the street and tends to confuse Toronto drivers. In 2015 it saw **270 tickets** issued for **$27,000** in fines.
+There were several other high grossing hydrants in Toronto that were similarly ambiguous.  Continuing the University Avenue theme, the hydrant near **361 University Ave**, also sits back from the street and tends to confuse Toronto drivers. In 2015 it saw **270 tickets** issued for **$27,000** in fines.
 
 # 361 University Avenue
 
@@ -31,7 +31,7 @@ There were several other high grossing hydrants in Toronto that were similarly a
 
 &nbsp;
 
-At 56 The Esplanade this hydrant is set back and can blend in with what is a busy street.  The address saw 180 tickets issued every year since 2013, bringing in $18,000+ in revenue each year.
+At **56 The Esplanade** this hydrant tends to blend in with a cluttered and active neighbourhood.  The address has seen **180 tickets** issued every year since 2013, bringing in annual revenue of **$18,000+** .
 
 ## 56 The Esplanade
 
@@ -39,7 +39,7 @@ At 56 The Esplanade this hydrant is set back and can blend in with what is a bus
 
 &nbsp;
 
-592 Markham St is another one, off the street a significant distance from where the car is parked.  Over **200 tickets** were issued in 2015, for just over **$20,000 in revenue**.
+Similarly, **592 Markham St** is another hydrant, slightly back in a busy street area.  Over **200 tickets** were issued in 2015, for just over **$20,000 in revenue**.
 
 ## 592 Markham St
 
