@@ -2,7 +2,7 @@
 title: "Toronto's Most Profitable Fire Hydrants"
 author: "David Brait"
 date: "Sunday, March 27, 2016"
-output: html_document
+output: post
 ---
 
 Expanding on my last post about <a href="http://dbrait.github.io/2016/03/10/Toronto's-$358,000-Parking-Spot/">Toronto's most expensive parking tickets</a>, I decided to dive back into the city of Toronto's parking ticket data.  Fire hydrant fines are another interesting type of infraction that have been very profitable for the city.  In 2015, there were **32,791** tickets issued for parking within 3 meters of a fire hydrant.  At $100 per ticket, that produced close to **$3.3 million** in revenue.  
