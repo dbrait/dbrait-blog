@@ -17,17 +17,17 @@ The last decade's most notable development is the aggressive expansion of Starbu
 
 
 ## Upscale Mini Chains
-Second Cup has long been Toronto's third biggest coffee chain growing incrementally with the city's population. <img src="img/Second Cup Graph.png"> Their strategy lies somewhere in between Tim's and Starbucks, as they predominantly cater to a downtown/commuter base, but have also expanded into other areas. <img src="img/Second Cup Current.png">
+Second Cup has long been a Toronto staple, growing incrementally with the city's population. <img src="img/Second Cup Graph.png"> Their location strategy lies somewhere in between Tim's and Starbucks, as they predominantly cater to a downtown/commuter base, but have also expanded into other areas. <img src="img/Second Cup Current.png">
 
 Alongside the rise of Starbucks, the last decade has seen the proliferation of niche coffee chains.  Aroma Espresso Bar is a great example, five years ago it barely existed, now they are big enough to register as a portion of the market.<img src="img/Aroma Graph.png">  On a smaller scale, they have followed the same pattern as Starbucks, scattering locations downtown and along the subway. <img src="img/Aroma Current.png"> 
 
 
 ## Losing Market Share
-Two chains have struggled over the last decade and lost significant market share.  Coffee Time has declined each of the last five years. <img src="img/Coffee Time Graph.png"> <img src="img/Coffee Time Current.png">  Timothy's has has been the biggest loser in upscale locations as niche brands and Starbucks have taken over. <img src="img/Timothys Graph.png"> <img src="img/Timothys Current.png">
+Two chains have struggled over the last decade with negative growth.  Fifteen years ago, Coffee Time was Tim Horton's biggest competitor.  They have experience a significant drop off in locations each of the past five years. <img src="img/Coffee Time Graph.png"> <img src="img/Coffee Time Current.png">  Timothy's has has been the biggest loser in upscale locations, as niche brands and Starbucks have taken over. <img src="img/Timothys Graph.png"> <img src="img/Timothys Current.png">
 
 
 ## Other Competitors
-All of this does not consider the rise of the independent coffee shop, which in certain neighborhoods is a significant portion of the market.  It also does not include places like McDonald's, which in certain parts of the city is likely Tim Horton's biggest competitor.
+All of this does not consider the rise of the independent coffee shop, which in trendier neighborhoods is a significant portion of the market.  It also does not include places like McDonald's, which in certain parts of the city is likely Tim Horton's biggest competitor.
 
 
 
