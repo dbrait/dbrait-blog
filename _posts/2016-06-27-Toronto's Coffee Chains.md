@@ -21,3 +21,5 @@ Two chains seem to have really lost significant market share.  Coffee Time has l
 
 ## Other Competitors
 All of this does not consider the rise of the independent coffee shop, which ancedotally seems like it has never been bigger.  Especially in certain downtown neighborhoods (Queen West, the Annex, Leslieville, etc) this is likely a large portion of the market.  It also does not include places like McDonald's, which with their location has likey been a significant headwind for Coffee Time and in certain parts of the city is likely Tim Horton's biggest competitor.
+
+{% include twitter_plug.html %}
