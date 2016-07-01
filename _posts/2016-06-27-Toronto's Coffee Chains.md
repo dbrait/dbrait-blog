@@ -8,12 +8,12 @@ comments: True
 The City of Toronto's <a href="http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=83a7c060155d0310VgnVCM1000003dd60f89RCRD&vgnextchannel=bee6e03bb8d1e310VgnVCM10000071d60f89RCRD">open data portal</a> has a frequently updated dataset with detailed information on all the licences issued in the city.  I thought it would be interesting to look at the city's coffee shops and examine the current landscape and how things have changed over the last 15 years.  
 
 
-## Tim Hortons
+## Tim Horton's
 Tim Horton's has always been the undisputed king of coffee in Toronto as evidenced by the numbers. <img src="img/Tims Graph.png">  For the last fifteen years they have had a dominating presence across the city.  There is a dense concentration of stores in downtown and the rest of the map is close to evenly distributed, with Tim's locations popping up near most major intersections. <img src="img/Tims Current.png">
 
 
 ## Starbucks
-The last decade's most notable development is the aggressive expansion of Starbucks. <img src="img/Starbucks Graph.png">  Tim's can still claim superior breadth throughout the city.  However, along the subway lines, in the downtown core, and in Toronto's upscale neighbourhoods, Starbucks has caught and arguably surpassed Tim Hortons.<img src="img/Starbucks Current.png">  Comparing the current map, to maps from 2006 and 2011 you can see Starbucks has doubled down on their core demographic, leaving no wealthy area of the city uncovered. <img src="img/Starbucks Five Years.png"> <img src="img/Starbucks Ten Years.png">
+The last decade's most notable development is the aggressive expansion of Starbucks. <img src="img/Starbucks Graph.png">  Tim's can still claim superior breadth throughout the city.  However, along the subway lines, in the downtown core, and in Toronto's upscale neighbourhoods, Starbucks has caught and arguably surpassed Tim Horton's.<img src="img/Starbucks Current.png">  Comparing the current map, to maps from 2006 and 2011 you can see Starbucks has doubled down on their core demographic, leaving no wealthy area of the city uncovered. <img src="img/Starbucks Five Years.png"> <img src="img/Starbucks Ten Years.png">
 
 
 ## Upscale Mini Chains
@@ -23,7 +23,7 @@ Alongside the rise of Starbucks, the last decade has seen the proliferation of n
 
 
 ## Losing Market Share
-Two chains have struggled over the last decade with negative growth.  Fifteen years ago, Coffee Time was Tim Horton's biggest competitor.  They have experience a significant drop off in locations each of the past five years. <img src="img/Coffee Time Graph.png"> <img src="img/Coffee Time Current.png">  Timothy's has has been the biggest loser in upscale locations, as niche brands and Starbucks have taken over. <img src="img/Timothys Graph.png"> <img src="img/Timothys Current.png">
+Two chains have struggled over the last decade with negative growth.  Fifteen years ago, Coffee Time was Tim Horton's biggest competitor.  They have experience a significant drop off in locations each of the past five years. <img src="img/Coffee Time Graph.png"> <img src="img/Coffee Time Current.png">  Timothy's has been the biggest loser in upscale locations, as niche brands and Starbucks have taken over. <img src="img/Timothys Graph.png"> <img src="img/Timothys Current.png">
 
 
 ## Other Competitors
