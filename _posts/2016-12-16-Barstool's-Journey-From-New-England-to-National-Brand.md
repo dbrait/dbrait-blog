@@ -31,6 +31,7 @@ The Boston Marathon stories of resilience of victims and first responders genera
 <img src="img/avg_shares_2013.png">
 
 '''{r, echo=FALSE}
+library(knitr)
 top_posts <- read.csv("data/top_posts.csv")
 top_posts_2013 <- top_posts %>% filter(Year == 2013) %>% head(top_posts_2013, 10)
 kable(top_posts_2013)
