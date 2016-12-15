@@ -30,7 +30,10 @@ The Boston Marathon stories of resilience of victims and first responders genera
 
 <img src="img/avg_shares_2013.png">
 
-kable(head(top_posts_2013), 10)
+'''{r, echo=FALSE}
+top_posts_2013 <- head(top_posts_2013, 10)
+kable(top_posts_2013)
+'''
 
 and again in 2014 covering the one year anniversary. 
 
