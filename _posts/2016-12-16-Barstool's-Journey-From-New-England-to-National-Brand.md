@@ -5,9 +5,6 @@ date: "Friday, December 16, 2016"
 output: html_document
 ---
 
--main points in the story - the change from a new england brand to a national one
--how barstool has always reasonated
-
 As someone who became a stoolie in 2014, watching the progression of Barstool from a regional brand into a national one has been fascinating.  At this point if you are of a certain age you have likely heard of Barstool in some capacity, whether you it's "Saturday's Are For the Boys" or "Pardon My Take", there are several facets of the brand that have resonated and spread on a national scale.
 
 If you are of a certian age in New England, Barstool has likely driven the sports and pop culture conversation, more so than NESN, Felger and Mazz or the Boston Globe.  Many have speculated that El Pres is the most powerful person in Boston sports media.
@@ -20,30 +17,30 @@ I had a pretty good grasp for how the data might look.  I decided to look at the
 
 When you break down the year by year data, the obvious impact of Chernin is remarkable.  You can see that barstool became cognizant of the need for a facebook strategy, in particular last year (2015) with the number of posts seeing a huge uptick:
 
-<img src="img/num_posts_year">
+<img src="img/num_posts_year.png">
 
 But in terms of virality and distribution they had stagnated in the same place for the last three years.  2016 saw an enormous uptick in their consistent ability to spread content:
 
-<img src="img/avg_shares_year">
-<img src="img/med_shares_year">
+<img src="img/avg_shares_year.png">
+<img src="img/med_shares_year.png">
 
 The data is so varied and seemingly random in some spots, so it helps to understand barstool.  Each of the spikes until mid 2015 has a New England based explanation.  
 
 The Boston Marathon stories of resilience of victims and first responders generated huge bumps in 2013 during the bombings.  It was the first major leap barstool made as they maintained many of their numbers througout the year.  It was also a great leading indicator of the power of their engagement.  For a cause in their wheelhouse they were able to generate an enormous amount of traffic and turn it into something tangible.
 
-<img src="img/avg_shares_2013">
+<img src="img/avg_shares_2013.png">
 
 kable(head(top_posts_2013), 10)
 
 and again in 2014 covering the one year anniversary. 
 
-<img src="img/avg_shares_2014">
+<img src="img/avg_shares_2014.png">
 
 kable(head(top_posts_2014), 10)
 
 The various inflection points of deflategate and the sit in at NFL headquarters generated in early 2015.
 
-<img src="img/avg_shares_2015">
+<img src="img/avg_shares_2015.png">
 
 kable(head(top_posts_2015), 10)
 
@@ -54,6 +51,7 @@ You can also see Barstool start to make a transition.  Of the 20 most shared pos
 The move to the New York office shows promising signs of being a big content generator as 9 of 2016's top 10 posts are from September or October.  Barstool has always had the ability to make something go viral and general 10,000+ shares, usually with stories that unite New England in a big way.  What has shifted in the last year is their ability to constantly drive number of shares for a wide variety of content on a regular basis.  If early indicators hold true, it looks like they have made another major leap since the birth of the new office.  2016 is the first year where New England has not dominated the top content.  All five top posts this year are non New England stories.
 
 kable(head(top_posts_2016), 10)
+
 
 &nbsp;
 
