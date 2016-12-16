@@ -1,10 +1,3 @@
----
-title: "Barstool's Journey From New England to National Brand"
-author: "David Brait"
-date: "Friday, December 16, 2016"
-output: html_document
----
-
 As someone who became a stoolie in 2014, watching the progression of Barstool from a regional brand into a national one has been fascinating.  At this point if you are of a certain age you have likely heard of Barstool in some capacity, whether you it's "Saturday's Are For the Boys" or "Pardon My Take", there are several facets of the brand that have resonated and spread on a national scale.
 
 If you are of a certian age in New England, Barstool has likely driven the sports and pop culture conversation, more so than NESN, Felger and Mazz or the Boston Globe.  Many have speculated that El Pres is the most powerful person in Boston sports media.
@@ -32,7 +25,7 @@ The Boston Marathon stories of resilience of victims and first responders genera
 
 ```{r, echo=FALSE}
 library(knitr)
-top_posts <- read.csv("data/top_posts.csv")
+top_posts_2013 <- read.csv("data/top_posts.csv")
 top_posts_2013 <- top_posts %>% filter(Year == 2013) %>% head(top_posts_2013, 10)
 kable(top_posts_2013)
 ```
@@ -41,13 +34,21 @@ and again in 2014 covering the one year anniversary.
 
 <img src="img/avg_shares_2014.png">
 
-kable(head(top_posts_2014), 10)
+```{r, echo=FALSE}
+top_posts_2014 <- read.csv("data/top_posts.csv")
+top_posts_2014 <- top_posts_2014 %>% filter(Year == 2014) %>% head(top_posts_2014, 10)
+kable(top_posts_2014)
+```
 
 The various inflection points of deflategate and the sit in at NFL headquarters generated in early 2015.
 
 <img src="img/avg_shares_2015.png">
 
-kable(head(top_posts_2015), 10)
+```{r, echo=FALSE}
+top_posts_2015 <- read.csv("data/top_posts.csv")
+top_posts_2015 <- top_posts_2015 %>% filter(Year == 2015) %>% head(top_posts_2015, 10)
+kable(top_posts_2015)
+```
 
 In late 2015 there is a big jump around November as the number of shares rose to 90-100 per post and the average likes climbed to 300.  Barstool has maintained this level for the past year.
 
@@ -55,9 +56,11 @@ You can also see Barstool start to make a transition.  Of the 20 most shared pos
 
 The move to the New York office shows promising signs of being a big content generator as 9 of 2016's top 10 posts are from September or October.  Barstool has always had the ability to make something go viral and general 10,000+ shares, usually with stories that unite New England in a big way.  What has shifted in the last year is their ability to constantly drive number of shares for a wide variety of content on a regular basis.  If early indicators hold true, it looks like they have made another major leap since the birth of the new office.  2016 is the first year where New England has not dominated the top content.  All five top posts this year are non New England stories.
 
-kable(head(top_posts_2016), 10)
-
-
+```{r, echo=FALSE}
+top_posts_2016 <- read.csv("data/top_posts.csv")
+top_posts_2016 <- top_posts_2016 %>% filter(Year == 2016) %>% head(top_posts_2016, 10)
+kable(top_posts_2016)
+```
 &nbsp;
 
 {% include twitter_plug.html %}
