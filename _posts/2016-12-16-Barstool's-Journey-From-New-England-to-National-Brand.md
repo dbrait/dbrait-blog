@@ -2,7 +2,9 @@
 title: "Barstool's Journey From New England to National Brand"
 author: "David Brait"
 date: "Friday, December 16, 2016"
-output: html_document
+output: 
+  html_document:
+    code_folding: hide
 ---
 
 ```{r global_options, include=FALSE}
