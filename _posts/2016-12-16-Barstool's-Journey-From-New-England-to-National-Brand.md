@@ -1,3 +1,14 @@
+---
+title: "Barstool's Journey From New England to National Brand"
+author: "David Brait"
+date: "Friday, December 16, 2016"
+output: html_document
+---
+
+```{r global_options, include=FALSE}
+library(knitr)
+```
+
 As someone who became a stoolie in 2014, watching the progression of Barstool from a regional brand into a national one has been fascinating.  At this point if you are of a certain age you have likely heard of Barstool in some capacity, whether you it's "Saturday's Are For the Boys" or "Pardon My Take", there are several facets of the brand that have resonated and spread on a national scale.
 
 If you are of a certian age in New England, Barstool has likely driven the sports and pop culture conversation, more so than NESN, Felger and Mazz or the Boston Globe.  Many have speculated that El Pres is the most powerful person in Boston sports media.
@@ -24,10 +35,9 @@ The Boston Marathon stories of resilience of victims and first responders genera
 <img src="img/avg_shares_2013.png">
 
 ```{r, echo=FALSE}
-library(knitr)
 top_posts_2013 <- read.csv("data/top_posts.csv")
 top_posts_2013 <- top_posts %>% filter(Year == 2013) %>% head(top_posts_2013, 10)
-table(top_posts_2013)
+kable(top_posts_2013)
 ```
 
 and again in 2014 covering the one year anniversary. 
@@ -61,6 +71,7 @@ top_posts_2016 <- read.csv("data/top_posts.csv")
 top_posts_2016 <- top_posts_2016 %>% filter(Year == 2016) %>% head(top_posts_2016, 10)
 kable(top_posts_2016)
 ```
+
 &nbsp;
 
 {% include twitter_plug.html %}
