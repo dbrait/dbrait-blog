@@ -27,7 +27,7 @@ The Boston Marathon stories of resilience of victims and first responders genera
 library(knitr)
 top_posts_2013 <- read.csv("data/top_posts.csv")
 top_posts_2013 <- top_posts %>% filter(Year == 2013) %>% head(top_posts_2013, 10)
-kable(top_posts_2013)
+table(top_posts_2013)
 ```
 
 and again in 2014 covering the one year anniversary. 
