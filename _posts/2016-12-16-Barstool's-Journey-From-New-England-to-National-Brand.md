@@ -19,6 +19,7 @@ The data reaches back five years to 2013 (when Barstool started to become increa
 
 <img src="img/num_posts_year.png">
 
+
 ## Rises in Popularity
 
 There are two major inflection points in Barstool's history on facebook.
@@ -38,6 +39,7 @@ These numbers have remained fairly consistent throughout 2016 and early 2017.
 
 <img src="img/avg_shares_2016.png">
 <img src="img/med_shares_2016.png">
+
 
 ## Evolving Content
 
