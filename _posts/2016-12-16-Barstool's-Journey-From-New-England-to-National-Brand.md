@@ -13,13 +13,13 @@ To most long time Stoolies (what Barstool calls their readers) it is not hard to
 
 As a Stoolie myself, I thought it would be interesting to dig into the facebook side of the data and try to understand how Barstool has evolved.
 
-###Change in the usage of facebook as a platform
+## Usage of Facebook
 
 The data reaches back five years to 2013 (when Barstool started to become increasingly active on Facebook).  Breaking down the year by year data, the impact of Chernin is remarkable.  Barstool became cognizant of the need for a facebook strategy (or at least the leverage that facebook provides to reach new audiences), in particular late in 2015 with the number of posts seeing a big uptick.
 
 <img src="img/num_posts_year.png">
 
-###Changes in popularity
+## Rises in Popularity
 
 There are two major inflection points in Barstool's history on facebook.
 
@@ -39,7 +39,7 @@ These numbers have remained fairly consistent throughout 2016 and early 2017.
 <img src="img/avg_shares_2016.png">
 <img src="img/med_shares_2016.png">
 
-###change in types of content
+## Evolving Content
 
 Since the Chernin acquisition the focus on video is clear to anybody paying attention.  In 2015 video accounted for 1.1% of all posts.  In 2016 post Chernin that number jumped to 8.5%.  So far in 2017 it is slighty above 25%.
 
