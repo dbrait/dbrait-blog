@@ -15,7 +15,7 @@ Like any company that is different, Barstool's business breeds interest from inc
 
 It is clear to anybody who has followed Barstool that they have shifted.  As a Stoolie myself, I decided to dig into their Facebook data and to see how Barstool has evolved.
 
-###Change in Facebook Usage
+##Change in Facebook Usage
 
 I scraped data from the main barstoolsports facebook page reaching back five years to 2013 (when Barstool started to become increasingly active on Facebook).  Barstool became cognizant of the need for a Facebook strategy (or at least the leverage that facebook provides to reach new audiences), late in 2014 with the number of posts seeing a big uptick.
 
