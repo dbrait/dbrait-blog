@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Barstool's Journey From New England to National Brand"
 author: "David Brait"
 date: "Friday, April 28, 2017"
