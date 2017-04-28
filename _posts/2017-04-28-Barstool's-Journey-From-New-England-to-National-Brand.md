@@ -3,9 +3,6 @@ layout: post
 title: "Barstool's Journey From New England to National Brand"
 author: "David Brait"
 date: "Friday, April 28, 2017"
-output: 
-  html_document:
-    code_folding: hide
 ---
 
 Ask any long time Barstool reader (Stoolie) about the company's success and they will have no problem explaining why Barstool resonates.  The site has cultivated unique personalitys that are authentic, honest and speak to many issues outside the realm of an increasingly out of touch sports media and entertainment complex.  Most new media companies have focused on technology and virality, often at the expense of content. Barstool went against the grain.  Because of that they have built a bond with their fans that does not exist anywhere else.
