@@ -9,7 +9,7 @@ Ask any long time Barstool reader (Stoolie) about the company's success and they
 
 Since the start of the decade, Barstool Sports has been a household name in the Northeast.  With strategic investment from The Chernin Group this presence has started to expand on to the national stage. Sub brands like "Saturday with the Boys" and "Pardon My Take" illustrate the power Barstool has to reach large young audiences on a national scale.
 
-Like any company that is different, Barstool's business breeds interest from incumbents and industry observers. For the high level strategic overview, the  <a href="https://www.facebook.com/RichardDeitsch/posts/1328831270511252">Richard Deistch podcast with Erica Nardini</a> (the new CEO) is particularly good.  For an interesting thesis on what barstool is trying to become, Anthony Pomliano is a <a href="https://medium.com/@apompliano/dave-portnoy-and-barstool-sports-secret-billion-dollar-plan-bb002ba429a7">great read.  
+Like any company that is different, Barstool's business breeds interest from incumbents and industry observers. For the high level strategic overview, the  <a href="https://www.facebook.com/RichardDeitsch/posts/1328831270511252">Richard Deistch podcast with Erica Nardini</a> (the new CEO) is particularly good.  For an interesting thesis on what barstool is trying to become, Anthony Pomliano is a <a href="https://medium.com/@apompliano/dave-portnoy-and-barstool-sports-secret-billion-dollar-plan-bb002ba429a7">great read.</a>
 
 It is clear to anybody who has followed Barstool that they have shifted.  As a Stoolie myself, I decided to dig into their Facebook data and to see how Barstool has evolved.
 
