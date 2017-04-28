@@ -21,7 +21,7 @@ I scraped data from the main barstoolsports facebook page reaching back five yea
 
 <img src="img/2013-present.png">
 
-###Changes in popularity
+##Changes in popularity
 
 The data makes it clear that there are two major inflection points in Barstool's popularity, and another one currently developing.
 
