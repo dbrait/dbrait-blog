@@ -25,7 +25,7 @@ The data makes it clear that there are two major inflection points in Barstool's
 
 The first comes during the Boston Marathon bombings.  Barstool made a major leap by telling the story, raising money and rallying Boston.  Their biggest posts in 2013 were J<a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151640240762502/?type=3&theater">Jeff Bauman delivering Sydney Corcoran her 18th birtday present</a> and the  <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151635290102502/?type=3&theater">escort for Sean Collier</a> who was the MIT officer killed the day after the bombings.  Much of the audience they gained during April 2013 stayed in their numbers throughout the year.  It was a great initial indicator of the power of their engagement.  
 
-<img src ="{{dbrait.github.io}}/img/2013-present.png">
+<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png">
 <img src="{{dbrait.github.io}}/img/med_shares_2013.png">
 
 Barstool carried similar numbers through much of 2014 and 2015.  In November of 2015, they saw their second major uptick.  The cause is much more ambiguous, perhaps it was the result of a change in strategy. 
