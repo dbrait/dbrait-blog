@@ -21,6 +21,7 @@ I scraped data from the main barstoolsports facebook page reaching back five yea
 
 img {
     vertical-align:middle;
+    horizontal-align:middle;
     max-height:100%;
 }
 
