@@ -19,6 +19,11 @@ I scraped data from the main barstoolsports facebook page reaching back five yea
 
 <img src="{{dbrait.github.io}}/img/2013-present.png">
 
+img {
+    vertical-align:middle;
+    max-height:100%;
+}
+
 ## Changes in popularity
 
 The data makes it clear that there are two major inflection points in Barstool's popularity, and another one currently developing.
