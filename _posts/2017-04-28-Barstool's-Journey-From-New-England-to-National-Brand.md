@@ -30,8 +30,8 @@ The first comes during the Boston Marathon bombings.  Barstool made a major leap
 
 Barstool carried similar numbers through much of 2014 and 2015.  In November of 2015, they saw their second major uptick.  The cause is much more ambiguous, perhaps it was the result of a change in strategy. 
 
-<img src="{{dbrait.github.io}}/img/med_shares_2015.png">
-<img src="{{dbrait.github.io}}/img/avg_shares_2015.png">
+<img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/avg_shares_2015.png" width="900" height="450">
 
 In 2013, 2014 and 2015 the common theme in viral posts was New England centric (Boston Marathon, Boston teams, Brady, Goodell, etc).  As Barstool evolved in both geographic and content scope this changed drastically.  Their core content stayed similar but their most shared posts since late 2015, range from <a href="https://www.facebook.com/barstoolsports/videos/10153832862622502/">Big Cat watching the Aaron Rodgers Hail Mary with Superfan and Detroit Don</a>, to various Bills Mafia videos, to the standard viral videos like  <a href="https://www.facebook.com/barstoolsports/videos/10154656453582502/">a dog chasing a goose around a rock</a> or a video of <a href="https://www.facebook.com/barstoolsports/videos/10154574992232502/">Rick Flair at a restaurant.</a>
 
@@ -39,8 +39,8 @@ The numbers remained fairly consistent throughout 2016 and early 2017 despite th
 
 The interesting trend to watch is the recent jump this month (April).  Numbers have risen significantly and it will definitely be worth tracking to see if that is the start of a new level of growth.
 
-<img src="{{dbrait.github.io}}/img/avg_shares_1617.png">
-<img src="{{dbrait.github.io}}/img/med_shares_1617.png">
+<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="900" height="450">
 
 The Chernin acquistion has brought all sorts of smaller changes in promotion and types of content that I will hopefully dive into in a later post.  For now, I thought this was an interesting look into how Barstool has grown over the past five years.
 
