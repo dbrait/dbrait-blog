@@ -7,7 +7,7 @@ date: "Friday, May 5, 2017"
 
 **(Data in the graphs below was collected from the Barstool Facebook page)**
 
-By the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for local teams and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
+By the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for local teams, and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
 
 ## The Boston Marathon
 
