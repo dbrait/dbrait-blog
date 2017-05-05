@@ -18,6 +18,7 @@ In April 2013 they took the next step, merging their disparate identities to bec
 Much of the audience they gained during April 2013 stayed in their Facebook numbers throughout the year.  It was a great initial indicator of their bond with readers.  
 
 <img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="900" height="450">
+&nbsp;
 <img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="900" height="450">
 
 &nbsp;
@@ -34,6 +35,8 @@ From 2013-2015, Barstool's numbers remained New England centric.  A viral post w
 
 As the base expanded nationally, the most shared posts became more diverse, ranging from <a href="https://www.facebook.com/barstoolsports/videos/10153832862622502/">Big Cat watching the Aaron Rodgers Hail Mary with Superfan and Detroit Don</a>, to various <a href="https://www.facebook.com/barstoolsports/videos/10154951512387502/">Bills Mafia videos</a> or a video of <a href="https://www.facebook.com/barstoolsports/videos/10154574992232502/">Rick Flair at a restaurant.</a>
 
+&nbsp;
+
 ## The Chernin Acquisition
 
 With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got-sold/">strategic investment from The Chernin Group</a> in early 2016 this expansion has continued.  Sub brands like "Saturday with the Boys" and "Pardon My Take" are proof that the engagement power Barstool flexed in the Northeast can work on a national scale.
@@ -41,6 +44,7 @@ With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got
 Can Barstool continue to grow while maintaining a comparable level of connection to their fans?  The answer will likely come soon.  Despite the Chernin acquisition, the overall Facebook numbers stayed relatively stable through 2016 and early 2017.   This has changed in the last month.
 
 <img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="900" height="450">
+&nbsp;
 <img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="900" height="450">
 
 &nbsp;
