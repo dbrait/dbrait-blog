@@ -5,7 +5,7 @@ author: "David Brait"
 date: "Friday, May 5, 2017"
 ---
 
-#### (All of the data referenced in the graphs below was collected from the main barstoolsports Facebook page)
+##### (All of the data referenced in the graphs below was collected from the main barstoolsports Facebook page)
 
 &nbsp;
 
@@ -17,6 +17,8 @@ In April 2013 they took the next step, merging their disparate identities to bec
 
 Much of the audience they gained during April 2013 stayed in their Facebook numbers throughout the year.  It was a great initial indicator of their bond with readers.  
 
+&nbsp;
+
 <img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="900" height="450">
 &nbsp;
 <img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="900" height="450">
@@ -26,6 +28,8 @@ Much of the audience they gained during April 2013 stayed in their Facebook numb
 ## Expanding Nationally
 
 From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference Defaltegate or a Boston sports team.  Towards the end of 2015 this started to change as the numbers slowly built.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
+
+&nbsp;
 
 <img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="900" height="450">
 &nbsp;
@@ -42,6 +46,8 @@ As the base expanded nationally, the most shared posts became more diverse, rang
 With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got-sold/">strategic investment from The Chernin Group</a> in early 2016 this expansion has continued.  Sub brands like "Saturday with the Boys" and "Pardon My Take" are proof that the engagement power Barstool flexed in the Northeast can work on a national scale.
 
 Can Barstool continue to grow while maintaining a comparable level of connection to their fans?  The answer will likely come soon.  Despite the Chernin acquisition, the overall Facebook numbers stayed relatively stable through 2016 and early 2017.   This has changed in the last month.
+
+&nbsp;
 
 <img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="900" height="450">
 &nbsp;
