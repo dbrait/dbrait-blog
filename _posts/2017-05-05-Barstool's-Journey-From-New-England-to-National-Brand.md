@@ -9,14 +9,15 @@ date: "Friday, May 5, 2017"
 
 By the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for local teams and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
 
-In April 2013 they took the next step, merging their disparate identities to become the voice of New England.  The days after the Boston Marathon bombings, Barstool told the story, raised money and rallied Boston.  Facebook posts like <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151640240762502/?type=3&theater">Jeff Bauman delivering Sydney Corcoran her 18th birthday present</a> and the  <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151635290102502/?type=3&theater">escort for Sean Collier</a>, the MIT officer killed the day after the bombings, created unprecedented engagement and resonated with defiant New Englanders. 
+In April 2013 they took the next step, merging their disparate identities to become the voice of New England.  Barstool told the story, raised money and rallied Boston in the days after the Boston Marathon bombings.  Facebook posts like <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151640240762502/?type=3&theater">Jeff Bauman delivering Sydney Corcoran her 18th birthday present</a> and the  <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10151635290102502/?type=3&theater">escort for Sean Collier</a>, created unprecedented engagement and resonated with defiant New Englanders. 
 
 Much of the audience they gained during April 2013 stayed in their Facebook numbers throughout the year.  It was a great initial indicator of their bond with readers.  
 
-<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="900" height="450">
 <img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="900" height="450">
+<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="900" height="450">
 
-From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference Defaltegate or a Boston sports team.  Towards the end of 2015, this started to change.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
+
+From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference Defaltegate or a Boston sports team.  Towards the end of 2015 this started to change as the numbers slowly built.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
 
 <img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="900" height="450">
 <img src="{{dbrait.github.io}}/img/avg_shares_2015.png" width="900" height="450">
@@ -27,8 +28,8 @@ With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got
 
 Can Barstool continue to grow while maintaining a comparable level of connection to their fans?  The answer will likely come soon.  Despite the Chernin acquisition, the overall Facebook numbers stayed relatively stable through 2016 and early 2017.   This has changed in the last month.
 
-<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="900" height="450">
 <img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="900" height="450">
 
 If they retain these growth numbers it will be fascinating to watch how it manifests within the product and fan base.
 
