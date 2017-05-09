@@ -37,13 +37,13 @@ From 2013-2015, Barstool's numbers remained New England centric.  A viral post w
 
 &nbsp;
 
-As the base expanded nationally, the most shared posts became more diverse, ranging from <a href="https://www.facebook.com/barstoolsports/videos/10153832862622502/">Big Cat watching the Aaron Rodgers Hail Mary with Superfan and Detroit Don</a>, to various <a href="https://www.facebook.com/barstoolsports/videos/10154951512387502/">Bills Mafia videos</a> or a video of <a href="https://www.facebook.com/barstoolsports/videos/10154574992232502/">Rick Flair at a restaurant.</a>
+As the base expanded nationally, the most shared posts became more diverse both geographically and in scope. They ranged from <a href="https://www.facebook.com/barstoolsports/videos/10153832862622502/">Big Cat watching the Aaron Rodgers Hail Mary with Superfan and Detroit Don</a>, to <a href="https://www.facebook.com/barstoolsports/videos/10154951512387502/">Bills Mafia videos</a> to a video of <a href="https://www.facebook.com/barstoolsports/videos/10154574992232502/">Rick Flair at a restaurant.</a>
 
 &nbsp;
 
 ## The Chernin Acquisition
 
-With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got-sold/">strategic investment from The Chernin Group</a> in early 2016 this expansion has continued.  Sub brands like "Saturday with the Boys" and "Pardon My Take" are proof that the engagement power Barstool flexed in the Northeast can work on a national scale.
+With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got-sold/">strategic investment from The Chernin Group</a> in early 2016 this expansion has continued.  Sub brands like "Saturday with the Boys" and "Pardon My Take" are proof that the engagement power Barstool flexed in the Northeast works on a national scale.
 
 Can Barstool continue to grow while maintaining a comparable level of connection to their fans?  The answer will likely come soon.  Despite the Chernin acquisition, the overall Facebook numbers stayed relatively stable through 2016 and early 2017.   This has changed in the last month.
 
