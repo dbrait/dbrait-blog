@@ -4,10 +4,7 @@ title: "Barstool's Journey From New England to National Brand"
 author: "David Brait"
 date: "Tuesday, May 9, 2017"
 ---
-
 **(Data in the graphs below was collected from the Barstool Facebook page)**
-
-&nbsp;
 
 At the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for Boston teams, and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
 
@@ -21,9 +18,9 @@ Much of the audience they gained during April 2013 stayed in their Facebook numb
 
 &nbsp;
 
-<img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="800" height="450">
 &nbsp;
-<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="900" height="450">
+<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="800" height="450">
 
 &nbsp;
 
@@ -33,9 +30,9 @@ From 2013-2015, Barstool's numbers remained New England centric.  A viral post w
 
 &nbsp;
 
-<img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="800" height="450">
 &nbsp;
-<img src="{{dbrait.github.io}}/img/avg_shares_2015.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/avg_shares_2015.png" width="800" height="450">
 
 &nbsp;
 
@@ -51,9 +48,9 @@ Can Barstool continue to grow while maintaining a comparable level of connection
 
 &nbsp;
 
-<img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="800" height="450">
 &nbsp;
-<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="900" height="450">
+<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="800" height="450">
 
 &nbsp;
 
