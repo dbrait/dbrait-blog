@@ -2,12 +2,14 @@
 layout: post
 title: "Barstool's Journey From New England to National Brand"
 author: "David Brait"
-date: "Friday, May 5, 2017"
+date: "Tuesday, May 9, 2017"
 ---
 
 **(Data in the graphs below was collected from the Barstool Facebook page)**
 
-By the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for local teams, and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
+&nbsp;
+
+At the beginning of 2013 Barstool Sports had started to become a mainstream fixture in New England.  After years of toiling in obscurity they had become synonymous with the <a href="http://www.dailymail.co.uk/news/article-2124843/Blackout-parties-Inside-massive-drink-fueled-raves-attract-students-US.html">Northeast college experience</a>, an unapologetic champion for Boston teams, and a convenient <a href="http://boston.cbslocal.com/2011/08/12/barstool-founder-defends-posting-naked-photos-of-tom-bradys-son/"> punching bag</a> for the local news.
 
 ## The Boston Marathon
 
@@ -25,7 +27,7 @@ Much of the audience they gained during April 2013 stayed in their Facebook numb
 
 ## Expanding Nationally
 
-From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference Defaltegate or a Boston sports team.  Towards the end of 2015 this started to change as the numbers slowly built.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
+From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10153355159892502/?type=3&theater">Defaltegate</a> or a <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10152032170117502/?type=3">Boston sports team.</a>  Towards the end of 2015 this started to change as the numbers gradually increased.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
 
 &nbsp;
 
