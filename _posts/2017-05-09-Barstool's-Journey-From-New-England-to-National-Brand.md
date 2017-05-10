@@ -15,16 +15,12 @@ In April 2013 they took the next step, merging their disparate identities to bec
 Much of the audience they gained during April 2013 stayed in their Facebook numbers throughout the year.  It was a great initial indicator of their bond with readers.  
 
 <img src="{{dbrait.github.io}}/img/med_shares_2013.png" width="800" height="450">
-&nbsp;
-<img src ="{{dbrait.github.io}}/img/avg_shares_2013.png" width="800" height="450">
 
 ## Expanding Nationally
 
 From 2013-2015, Barstool's numbers remained New England centric.  A viral post was likely to reference <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10153355159892502/?type=3&theater">Defaltegate</a> or a <a href="https://www.facebook.com/barstoolsports/photos/a.352575592501.188647.348156187501/10152032170117502/?type=3">Boston sports team.</a>  Towards the end of 2015 this started to change as the numbers gradually increased.  November 2015 was the second major inflection point in Barstool's overall Facebook numbers.
 
 <img src="{{dbrait.github.io}}/img/med_shares_2015.png" width="800" height="450">
-&nbsp;
-<img src="{{dbrait.github.io}}/img/avg_shares_2015.png" width="800" height="450">
 
 As the base expanded nationally, the most shared posts became more diverse both geographically and in scope. They ranged from <a href="https://www.facebook.com/barstoolsports/videos/10153832862622502/">Big Cat watching the Aaron Rodgers Hail Mary with Superfan and Detroit Don</a>, to <a href="https://www.facebook.com/barstoolsports/videos/10154951512387502/">Bills Mafia videos</a> to a video of <a href="https://www.facebook.com/barstoolsports/videos/10154574992232502/">Rick Flair at a restaurant.</a>
 
@@ -35,8 +31,6 @@ With <a href="http://fortune.com/2016/01/07/the-story-of-how-barstool-sports-got
 Can Barstool continue to grow while maintaining a comparable level of connection to their fans?  The answer will likely come soon.  Despite the Chernin acquisition, the overall Facebook numbers stayed relatively stable through 2016 and early 2017.   This has changed in the last month.
 
 <img src="{{dbrait.github.io}}/img/med_shares_1617.png" width="800" height="450">
-&nbsp;
-<img src="{{dbrait.github.io}}/img/avg_shares_1617.png" width="800" height="450">
 
 If they retain these growth numbers it will be fascinating to watch how it manifests within the product and fan base.
 
